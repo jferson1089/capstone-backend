@@ -6,12 +6,9 @@
 
 ## Project Description
 
-I would like to create an application that used a React front end and a Python/Django/PostgreSQL backend. This application is for vehicle services at maintence repair shops. This application is intended to be used by the employee to easily identify a customer , and add them into the database.
+I would like to create an application that used a React front end and a Python/Django/PostgreSQL backend. This application is for vehicle repairs at repair shops. This application is intended to be used by the employee to easily identify a customer , pull up their information/appointment. Having many years in experience in the automotive world most repair shops use anywhere from jumbled databases that you need to sort through to find anything, to even pen and paper schedules. This application is for ease of workflow coming into the shop.
 
 ## API
-
-Use this section to include info about the API you have chosen and a code snippet of the data that it returns and is required for your project. 
-
 
 
 ## Wireframes
@@ -28,6 +25,7 @@ https://docs.google.com/drawings/d/1AmdTz6oUKIMcr9Xl0Khcq0o6GoXttR1h6MsuvO-nRew/
 
 #### Models -
 https://docs.google.com/drawings/d/18OKJEnPBi9Y1XghU9xIM51o9sWESE-B_9gIpnQfjRz0/edit?usp=sharing
+
 
 
 ### MVP/PostMVP 
@@ -60,9 +58,13 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Research | MVP| 6 hrs |  | |
+| Backend | MVP | 8 hrs | | |
+| Basic Front end layout | 4hrs|  | |
 | Building Components | MVP | 4 hrs |	| 	|
 | Deployment | MVP | 8 hrs? | | |
 | Working with RestAPI | MVP | 4 hrs|  |  |
+| 
+| Calender Functionality | postMVP | 4hrs|  | |
 |Additional Styling | postMVP | 4hrs | 	| |
 | Total | H | |  |  |
 
