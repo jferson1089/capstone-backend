@@ -44,7 +44,7 @@ https://docs.google.com/drawings/d/1AmdTz6oUKIMcr9Xl0Khcq0o6GoXttR1h6MsuvO-nRew/
 
 - Additional styling
 - Sales Model : Vehicles
-- 
+- Full Working Calender
 
 ## Components
 ##### Writing out your components and its descriptions isn't a required part of the proposal but can be helpful.
