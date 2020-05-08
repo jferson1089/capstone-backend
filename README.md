@@ -20,9 +20,11 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 
 ####WireFrame
 
+https://docs.google.com/drawings/d/1J7ptZHwe3FXxhQ8mxQGlG8mCbCRPZLqLUGwuZUcnIEQ/edit?usp=sharing
 
 ####React Architecture-
 
+https://docs.google.com/drawings/d/1AmdTz6oUKIMcr9Xl0Khcq0o6GoXttR1h6MsuvO-nRew/edit?usp=sharing
 
 ####Time Priority Matrix- 
 
@@ -67,6 +69,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 ## Additional Libraries
 
 Would be using Reactstrap and Bootstrap for React front end
+React Calender. https://www.npmjs.com/package/react-calendar
 
 ## Code Snippet
 
