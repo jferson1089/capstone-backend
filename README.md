@@ -26,8 +26,8 @@ https://docs.google.com/drawings/d/1J7ptZHwe3FXxhQ8mxQGlG8mCbCRPZLqLUGwuZUcnIEQ/
 
 https://docs.google.com/drawings/d/1AmdTz6oUKIMcr9Xl0Khcq0o6GoXttR1h6MsuvO-nRew/edit?usp=sharing
 
-####Time Priority Matrix- 
-
+#### Models -
+https://docs.google.com/drawings/d/18OKJEnPBi9Y1XghU9xIM51o9sWESE-B_9gIpnQfjRz0/edit?usp=sharing
 
 
 ### MVP/PostMVP 
