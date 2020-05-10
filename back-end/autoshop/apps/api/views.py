@@ -4,14 +4,7 @@ from .serializers import CustomerSerializer, ServiceSerializer
 from rest_framework import generics
 
 # Create your views here.
-
-
-class CustomerListView(generics.ListAPIView):
-    queryset = Customer.objects.all()
-    serializer_class = CustomerSerializer
-
-
-class CustomerCreateView(generics.CreateAPIView):
+class CustomerListView(generics.ListCreateAPIView):
     queryset = Customer.objects.all()
     serializer_class = CustomerSerializer
 
@@ -35,4 +28,3 @@ class ServiceListView(generics.ListCreateAPIView):
 class ServiceUpdateView(generics.RetrieveUpdateDestroyAPIView):
     queryset = Service.objects.all()
     serializer_class = ServiceSerializer
-
