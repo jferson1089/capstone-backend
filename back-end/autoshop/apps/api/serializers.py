@@ -6,11 +6,11 @@ class CustomerSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Customer
-        fields = ('first_name', 'last_name', 'phone_number', 'vin_number', )
+        fields = ('id', 'first_name', 'last_name', 'phone_number', 'vin_number', 'date_requested', 'reason', )
 
 
 class ServiceSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Service
-        fields = ('name', )
+        fields = ('name', 'price', )
