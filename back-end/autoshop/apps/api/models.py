@@ -9,9 +9,8 @@ class Customer(models.Model):
     last_name=models.CharField(max_length=50)
     phone_number=models.CharField(max_length=10)
     vin_number=models.CharField(max_length=17)
-    # description = models.TextField
-    # date_created=models.DateTimeField(auto_now_add=True)
-    # date_requested=models.DateTimeField()
+    reason = models.TextField(null=True)
+    date_requested=models.DateTimeField(null=True)
 
     class Meta:
         verbose_name= 'Customer'
@@ -25,7 +24,7 @@ class Service(models.Model):
     name = models.CharField(max_length=50)
     # description = models.TextField
     # avg_time = models.IntegerField
-    # price = models.IntegerField
+    price = models.CharField(max_length=40)
 
     class Meta:
         verbose_name = 'Service'
