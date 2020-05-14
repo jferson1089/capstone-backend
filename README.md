@@ -18,15 +18,20 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 
 #### WireFrame
 
+![github-small](https://res.cloudinary.com/jferson1089/image/upload/v1589496722/Screen_Shot_2020-05-14_at_6.50.58_PM_vuadlq.png)
+
 https://docs.google.com/drawings/d/1J7ptZHwe3FXxhQ8mxQGlG8mCbCRPZLqLUGwuZUcnIEQ/edit?usp=sharing
 
 #### React Architecture-
 
-![github-small](https://res.cloudinary.com/jferson1089/image/upload/v1589496722/Screen_Shot_2020-05-14_at_6.50.58_PM_vuadlq.png)
+![github-small](https://res.cloudinary.com/jferson1089/image/upload/v1589496722/Screen_Shot_2020-05-14_at_6.50.03_PM_ogcftm.png)
 
 https://docs.google.com/drawings/d/1AmdTz6oUKIMcr9Xl0Khcq0o6GoXttR1h6MsuvO-nRew/edit?usp=sharing
 
 #### Models -
+
+![github-small](https://res.cloudinary.com/jferson1089/image/upload/v1589496722/Screen_Shot_2020-05-14_at_6.50.39_PM_mavuqk.png)
+
 https://docs.google.com/drawings/d/18OKJEnPBi9Y1XghU9xIM51o9sWESE-B_9gIpnQfjRz0/edit?usp=sharing
 
 
